@@ -1,1 +1,2 @@
-console.log("Hello!!");
+console.log("config.js");
+console.log("version 2");
